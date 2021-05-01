@@ -4,7 +4,7 @@
 
 Hi, I'm Anas Jakane, a passionate Full Stack web developer and a freelance software engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. 
 <p> 
-<a href="https://www.linkedin.com/in/anasjak/"><img alt="LinkedIn" src="https://img.shields.io/badge/-anas_jakane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anasjak/"></a>
+<a href="https://www.linkedin.com/in/anasjak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-anas_jakane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anasjak/"></a>
     <img class="center" alt="Anas Jakane's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/mranasm.https://github.com/mranasm"/>
  </p>
 
