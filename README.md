@@ -15,7 +15,7 @@ Hi, I'm Anas Jakane, a passionate Full Stack web developer and a freelance softw
 <br>
 
 📌 Full Stack Software engineer <br>
-✅ Certified Scrum Master PSM™
+✅ Certified Scrum Master PSM™ <br>
 🏢 I'm currently working full-time with awesome peeps at Tamtam International. <br>
 🌱 Learning more about and studying: Open Source, React, Ml , Salesforce. <br>
 😄 Passionate about accessibility and committed to a web that works for everyone. <br>
