@@ -2,10 +2,11 @@
 
 ### About me🙋🏻‍♂️
 
-Hi, I'm Anas Jakane, a passionate Full Stack web developer and a freelance software engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. 
+Hi, I’m Anas, a Certified Scrum Master with 5+ years of experience driving Agile transformations across Telecom, Finance, and Education. I’ve worked with clients from Europe, Canada, and Africa. I specialize in empowering teams, optimizing processes, and fostering continuous improvement. My services include Agile coaching, remote team facilitation, conflict resolution, and Confluence/Jira administration. Let’s collaborate to elevate your Agile practices and achieve exceptional results.
+
+
 <p> 
 <a href="https://www.linkedin.com/in/anasjak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-anas_jakane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anasjak/"></a>
-    <img class="center" alt="Anas Jakane's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/mranasm.https://github.com/mranasm"/>
  </p>
 
 ## 🚩 Current Understandings
@@ -14,16 +15,19 @@ Hi, I'm Anas Jakane, a passionate Full Stack web developer and a freelance softw
 </p>
 <br>
 
-📌 Full Stack Software engineer <br>
-✅ Certified Scrum Master PSM™ <br>
-🏢 I'm currently working full-time with awesome peeps at Tamtam International. <br>
-🌱 Learning more about and studying: Open Source, React, Ml , Salesforce. <br>
-😄 Passionate about accessibility and committed to a web that works for everyone. <br>
-💬 Ask me about Technology, digital marketing , web design, social media, Nature. <br>
+🚀 Certified Scrum Master PSM™ <br>
+💻 Software engineer <br>
+🎯 Certified SAFe® Agilist
+
+🏢 I'm currently working full-time as a Scrum Master with Bell Canada.<br>
+🌱 Continuously learning and expanding my expertise in Agile methodologies, leadership, and process optimization.<br>
+😄 Passionate about fostering team collaboration and committed to delivering high-impact Agile transformations.<br>
+💬 Ask me about Agile practices, team dynamics, process improvement, and project management tools.<br>
 
 
 ## 🔧 Technologies & Tools
 <img src = "https://img.shields.io/badge/-Symfony-E34F26?style=flat&logo=symfony&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Confluence?style=flat&logo=confluence&logoColor=white">
 <img src="https://img.shields.io/badge/-redux-563D7C?style=flat&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
